@@ -1730,11 +1730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coder\\Documents\\Skinet4\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Coder\\Documents\\Skinet4\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Coder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coder\\Documents\\Skinet4\\API\\obj\\",
+      "outputPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Coder\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1749,8 +1749,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Coder\\Documents\\Skinet4\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Coder\\Documents\\Skinet4\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

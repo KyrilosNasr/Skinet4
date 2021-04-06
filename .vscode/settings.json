@@ -1,0 +1,9 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSurroundingLines": 3,
+    "editor.formatOnType": true,
+    "diffEditor.wordWrap": "on"
+}

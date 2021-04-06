@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coder\\Documents\\Skinet4\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Coder\\Documents\\Skinet4\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Coder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coder\\Documents\\Skinet4\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Coder\\AppData\\Roaming\\NuGet\\NuGet.Config"
