@@ -953,19 +953,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Coder\\.nuget\\packages\\": {}
+    "C:\\Users\\Keero\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Coder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Keero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coder\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Keero\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -977,8 +977,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj"
+            "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj"
             }
           }
         }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\api\\API.csproj": {}
+    "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\api\\API.csproj": {
+    "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\api\\API.csproj",
-        "packagesPath": "C:\\Users\\Coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\api\\obj\\",
+        "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Keero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Coder\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Keero\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -93,17 +93,17 @@
         }
       }
     },
-    "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj": {
+    "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Keero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Coder\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Keero\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -145,17 +145,17 @@
         }
       }
     },
-    "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Coder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Keero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Coder\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Keero\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -167,8 +167,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Coder\\Desktop\\code\\full-stack\\Skinet\\Core\\Core.csproj"
+              "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj"
               }
             }
           }
