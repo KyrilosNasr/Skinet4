@@ -9,7 +9,7 @@ namespace Core.Specifications
         public BaseSpecifcation()
         {
         }
-        
+
         public BaseSpecifcation(Expression<Func<T, bool>> criteria)
         {
             Criteria = criteria;
@@ -24,6 +24,7 @@ namespace Core.Specifications
         public Expression<Func<T, object>> OrderByDescending { get; private set; }
 
         public int Take { get; private set; }
+
         public int Skip { get; private set; }
 
         public bool IsPagingEnabled { get; private set; }
@@ -37,10 +38,12 @@ namespace Core.Specifications
         {
             OrderBy = orderByExpression;
         }
+
         protected void AddOrderByDescending(Expression<Func<T, object>> orderByDescExpression)
         {
             OrderByDescending = orderByDescExpression;
         }
+
         protected void ApplyPaging(int skip, int take)
         {
             Skip = skip;
