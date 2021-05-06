@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj": {}
+    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj": {
+    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Keero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keero\\Desktop\\Skinet\\Skinet\\Core\\obj\\",
+        "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Skinet\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Keero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
