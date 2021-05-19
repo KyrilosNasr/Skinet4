@@ -1,96 +1,24 @@
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\bin\Debug\net5.0\Core.dll
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.dll
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\Coder\Downloads\Compressed\Skinet-0a2f0bd5185fb906e5be6b45a61365fa23e9621e\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\Coder\Documents\Skinet4\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\Coder\Documents\Skinet4\Core\bin\Debug\net5.0\Core.dll
-C:\Users\Coder\Documents\Skinet4\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\Coder\Documents\Skinet4\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.dll
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\Coder\Documents\Skinet4\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\bin\Debug\net5.0\Core.dll
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.dll
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\Coder\Desktop\code\full-stack\Skinet\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\KERO\Desktop\Skinet\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\KERO\Desktop\Skinet\Core\bin\Debug\net5.0\Core.dll
-C:\Users\KERO\Desktop\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\KERO\Desktop\Skinet\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.dll
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\KERO\Desktop\Skinet\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\bin\Debug\net5.0\Core.dll
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.dll
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\Keero\Desktop\Skinet\Skinet\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.dll
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.dll
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.pdb
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.deps.json
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\bin\Debug\net5.0\Core.pdb
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
-C:\Users\ENG KEERO\Desktop\Coder\Skinet\Skinet\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\bin\Debug\net5.0\Core.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\bin\Debug\net5.0\Core.dll
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.dll
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\ENG KEERO\Desktop\Coder\Skinet\Core\obj\Debug\net5.0\Core.pdb
