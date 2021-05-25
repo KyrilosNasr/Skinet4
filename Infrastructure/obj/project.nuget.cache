@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wJvl7MllTF52FJQqIaeuM584dqhVPzzNoSOGbnQLl261OfDF17AKZ/ke+SEYg56tG7taSZqtn2/M+3sB+4ldA==",
+  "dgSpecHash": "KVoPlLaCRz+NxlCPK7Cv8KnQ0IVI41QtvBkqErUexluJmYY0UkY1kpfxlvSkfzR2zCH/jVuBYSbXYhXJxQmhww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
