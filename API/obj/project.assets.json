@@ -1730,11 +1730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1749,8 +1749,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
