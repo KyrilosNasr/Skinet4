@@ -29,11 +29,9 @@ namespace API
 
             services.AddSingleton<IConnectionMultiplexer>(c =>
             {
-                var Configuration = ConfigurationOptions.Parse(_config.GetConnectionString("Redis"),
-                true);
-                return ConnectionMultiplexer.Connect(Configuration);
+                var configuration = ConfigurationOptions.Parse(_config.GetConnectionString("Redis"), true);
+                return ConnectionMultiplexer.Connect(configuration);
             });
-
             services.AddApplicationServices();
             services.AddSwaggerDocumentation();
             services.AddCors(opt =>

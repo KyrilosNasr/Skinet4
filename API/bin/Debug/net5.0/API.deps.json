@@ -794,7 +794,7 @@
           "lib/netstandard2.0/SQLitePCLRaw.provider.dynamic_cdecl.dll": {}
         }
       },
-      "StackExchange.Redis/2.2.14": {
+      "StackExchange.Redis/2.2.4": {
         "dependencies": {
           "Pipelines.Sockets.Unofficial": "2.2.0",
           "System.Diagnostics.PerformanceCounter": "5.0.0"
@@ -802,7 +802,7 @@
         "runtime": {
           "lib/net5.0/StackExchange.Redis.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.2.14.30729"
+            "fileVersion": "2.2.4.27433"
           }
         },
         "compile": {
@@ -978,7 +978,7 @@
         "dependencies": {
           "Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.1",
-          "StackExchange.Redis": "2.2.14"
+          "StackExchange.Redis": "2.2.4"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -2967,12 +2967,12 @@
       "path": "sqlitepclraw.provider.dynamic_cdecl/2.0.4",
       "hashPath": "sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512"
     },
-    "StackExchange.Redis/2.2.14": {
+    "StackExchange.Redis/2.2.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ijCyItf6L8Y4SOvSXg+SSJaicv6wZdZL396PaK2b1o98lKvTqH6/6T8cdIyIBkpW5RhwxlYxEqlIwEia5XvM1A==",
-      "path": "stackexchange.redis/2.2.14",
-      "hashPath": "stackexchange.redis.2.2.14.nupkg.sha512"
+      "sha512": "sha512-wM0OuRyRaZTFndFRjIOvas4jjkeclRJsmNm0eAx5tOju3SQisrLubNaSFT/dBypi4Vh1n7nYc1gWpw9L7ernOg==",
+      "path": "stackexchange.redis/2.2.4",
+      "hashPath": "stackexchange.redis.2.2.4.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/5.6.3": {
       "type": "package",

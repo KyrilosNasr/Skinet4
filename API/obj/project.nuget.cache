@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GRCWaKWBmr4qTWsEEwdGVvnnrlmF9HEIkUxZygEHk+THQeK9lMWp+i24yWKBUUWh8nLaC2YBKWm21ODX35igGw==",
+  "dgSpecHash": "2IH7QcjGgBjky2So0nR+S24LH4IivhrZErRmoitwN+D5x2rWCBQnRqdLJ8wWwaA691+BQvu9PoLJqkoESkPT2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -44,7 +44,7 @@
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
-    "C:\\Users\\ENG KEERO\\.nuget\\packages\\stackexchange.redis\\2.2.14\\stackexchange.redis.2.2.14.nupkg.sha512",
+    "C:\\Users\\ENG KEERO\\.nuget\\packages\\stackexchange.redis\\2.2.4\\stackexchange.redis.2.2.4.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

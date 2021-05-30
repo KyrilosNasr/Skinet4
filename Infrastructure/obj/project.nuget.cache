@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zol28I+44B2hmkm5Ow5du9Y8ugjsIcJsd7pSAAd+bVT2KR6K3fjRXdWIBF0f6bPCpPoBTl2arqBRekIupir0OQ==",
+  "dgSpecHash": "em986cDzmvW0tMi76PAuk9pQ1BdQ7AEyoK55wul6BfFkhQqpMpRVHtnR/8MZ3owpfHNBngGUlULy9iYKbfoJKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -30,7 +30,7 @@
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
-    "C:\\Users\\ENG KEERO\\.nuget\\packages\\stackexchange.redis\\2.2.14\\stackexchange.redis.2.2.14.nupkg.sha512",
+    "C:\\Users\\ENG KEERO\\.nuget\\packages\\stackexchange.redis\\2.2.4\\stackexchange.redis.2.2.4.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
