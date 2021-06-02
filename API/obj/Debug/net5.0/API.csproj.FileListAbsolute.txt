@@ -11,6 +11,9 @@ C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\AutoMapper.E
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -20,6 +23,8 @@ C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.En
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
@@ -36,6 +41,7 @@ C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Swashbuckle.
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\ENG KEERO\Downloads\Compressed\Skinet\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
