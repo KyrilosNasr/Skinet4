@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Core\\Core.csproj": {
+    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet\\Core\\Core.csproj"
+              "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj"
               }
             }
           }
@@ -94,13 +100,25 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.1, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.2.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
             }
           },
           "imports": [
