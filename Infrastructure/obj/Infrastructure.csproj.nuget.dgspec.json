@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj": {
+    "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\obj\\",
+        "outputPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj"
+              "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj": {}
+    "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj": {
+    "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ENG KEERO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\Core\\obj\\",
+        "outputPath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENG KEERO\\AppData\\Roaming\\NuGet\\NuGet.Config"

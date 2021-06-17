@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JF2VJprYjTdSrzbeS8Oq1v9oOtTVOAXrHD4I6vGmfDn+1zebKizKfaTHj4mW8h7aTWhqsbbBwoqN57at2TY1pA==",
+  "dgSpecHash": "fJCocUXcypPHSX/2jOh/pHzhoQfN4P1bfGwDFPm61FkERx3xbjkpEMQHDoen9J/isuGF7s1IFPdX2Wm0/Ms+kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENG KEERO\\Desktop\\Coder\\Skinet\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\ENG KEERO\\Downloads\\Compressed\\Skinet-f\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ENG KEERO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
